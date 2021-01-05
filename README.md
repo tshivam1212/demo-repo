@@ -1,2 +1,2 @@
 # demo 
-say hello git
+say hello git;
